@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Ruiz</h1>
 <h3 align="center">A passionate for tecnology, music and the planet! 💚</h3>
 
-- 📚 I’m currently studying **Backend and Mobile Developmnet**
+- 💻 I would like to dedicate myself to **Backend and Mobile Developmnet**
 
 - 📓 I’m currently learning **Python, Java and Javascript**
 
