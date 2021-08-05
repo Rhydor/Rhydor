@@ -7,7 +7,7 @@
 
 - 🇨🇴 Live in **Colombia**
 
-- 🤝 Study autonomously and by **MisionTic 2022**
+- 🖥️ Study autonomously and by **MisionTic 2022**
 
 - 📓 I’m currently learning **Python, Java, Web[Html, CSS] and Javascript**
 
