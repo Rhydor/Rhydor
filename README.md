@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Ruiz</h1>
-<h3 align="left">🤍 A passionate for tecnology, music and the planet! 🤍</h3>
+<h3 align="left">🤍 A passionate for Tecnology, Music and the Planet! 🤍</h3>
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2017%2F09%2Fanime-computer-gif.gif&f=1&nofb=1" align="right" width="320" height="190">
 
