@@ -5,7 +5,7 @@
 
 - 🌱 Go **Vegan**
 
-- 🇨🇴 live in **Colombia**
+- 🇨🇴 Live in **Colombia**
 
 - 🤝 Study autonomously and by **MisionTic 2022**
 
