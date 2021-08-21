@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Blockchain [Hyperledger, Corda]**
 
-- 🖥️ [My web portfolio](https://rhydor.github.io)
+- 🖥️ [My web portfolio](https://rhydor.github.io) (Developing...)
 
 <h1></h1>
 <h3 align="left">Languages and Tools I want to learn</h3>
