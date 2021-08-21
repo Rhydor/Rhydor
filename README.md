@@ -7,11 +7,13 @@
 
 - :colombia: Live in **Colombia**
 
-- 🖥️ Study autonomously and by **MisionTic 2022**
+- 📚 Study autonomously and by **MisionTic 2022**
 
-- 📓 I’m currently learning **Python, Java, Web[Html, CSS] and Javascript**
+- 📑 I’m currently learning **Python, Java, Web[Html, CSS] and Javascript**
 
 - 🤝 I’m looking for help with **Blockchain [Hyperledger, Corda]**
+
+- 🖥️ [My web portfolio](https://rhydor.github.io)
 
 <h1></h1>
 <h3 align="left">Languages and Tools I want to learn</h3>
