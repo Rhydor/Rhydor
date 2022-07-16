@@ -7,7 +7,7 @@
 
 - :colombia: Live in **Colombia**
 
-- 📚 Study autonomously**
+- 📚 Study autonomously
 
 - 📑 I’m currently learning **Python, Java, Web[Html, CSS] and Javascript**
 
